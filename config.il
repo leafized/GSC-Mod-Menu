@@ -1,1 +1,1 @@
-﻿<?xml version="1.0" encoding="utf-8"?><Project><Title>tQ1</Title><Author /><Game>MW2</Game><Mode>MP</Mode><Platform>Steam</Platform><Symbols>DEBUG;EXAMPLE</Symbols></Project>
+﻿<?xml version="1.0" encoding="utf-8"?><Project><Title>tQ1</Title><Author /><Game>MW2</Game><Mode>MP</Mode><Platform>Steam</Platform><Symbols>DEBUG;VERSION 0.0</Symbols></Project>
